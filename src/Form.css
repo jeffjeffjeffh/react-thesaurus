@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+label {
+  font-size: 3rem;
+}
+
+button {
+  font-size: 2rem;
+  margin-left: 20px;
+  border-radius: 5%;
+}
+
+input {
+  width: 200px;
+  height: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 2rem;
+}
